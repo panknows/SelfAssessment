@@ -1,55 +1,55 @@
 ## JavaScript
 
 - Language
-  - `Object` u
-  - `Function` e 
-  - `Boolean` e
-  - `Number` u
-  - `BigInt` h
-  - `String` e
-  - `Symbol` h
-  - `Infinity` h
-  - `NaN` u
-  - `undefined` u
-  - `null` u
-  - `this` u
-  - `instanceof` k
-  - `...spread` u
-  - `...rest` u
-  - `typeof` u
-  - Destructuring u
+  - `Object`: 🖐️ used
+  - `Function`: 🙋 explained
+  - `Boolean`: 🙋 explained
+  - `Number`: 🖐️ used
+  - `BigInt`: 👂 heard
+  - `String`: 🙋 explained
+  - `Symbol`: 👂 heard
+  - `Infinity`: 👂 heard
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
+  - `instanceof`: 🎓 known
+  - `...spread`: 🖐️ used
+  - `...rest`: 🖐️ used
+  - `typeof`: 🖐️ used
+  - Destructuring: 🖐️ used
   - Generators
   - Iterators
   - Async generator
   - Async iterator
-  - Chaining e
-  - Optional chaining e
-  - IIFE u
-  - Async IIFE h
+  - Chaining: 🙋 explained
+  - Optional chaining: 🙋 explained
+  - IIFE: 🖐️ used
+  - Async IIFE: 👂 heard
   - `global`
   - `globalThis`
-  - `window` h
-  - Getters and setters h
-  - `__proto__` h
-  - `prototype` h
-  - Equality operators e
-  - Logical operators e
-  - Logical Assignment h
+  - `window`: 👂 heard
+  - Getters and setters: 👂 heard
+  - `__proto__`: 👂 heard
+  - `prototype`: 👂 heard
+  - Equality operators: 🙋 explained
+  - Logical operators: 🙋 explained
+  - Logical Assignment: 👂 heard
   - Bitwise operators
-  - Ternary operator e
+  - Ternary operator: 🙋 explained
   - `void`
   - `yield`
-  - `await` u
-  - Template literal e
-  - Strict mode h
-  - Hoisting k
-  - `delete` u
-  - `in` u
-  - `super` h
-  - `eval` u
-  - `static` h
-  - `Number.parseInt` h
-  - `Number.parseFloat` h
+  - `await`: 🖐️ used
+  - Template literal: 🙋 explained
+  - Strict mode: 👂 heard
+  - Hoisting: 🎓 known
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
+  - `super`: 👂 heard
+  - `eval`: 🖐️ used
+  - `static`: 👂 heard
+  - `Number.parseInt`: 👂 heard
+  - `Number.parseFloat`: 👂 heard
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,63 +59,63 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` e
-  - `while` e
-  - `do..while` u
-  - `for` e
-  - `for..in` e
-  - `for..of` e
-  - `for await` h
-  - `throw` k
-  - `break` u
-  - `continue` k
-  - `import` k
-  - `export` k
-  - `label` h
-  - `try..catch` u
-  - `switch` u
-  - `class` u
-  - `extends` u
-  - `with` h
-  - `new` k
+  - `if`: 🙋 explained
+  - `while`: 🙋 explained
+  - `do..while`: 🖐️ used
+  - `for`: 🙋 explained
+  - `for..in`: 🙋 explained
+  - `for..of`: 🙋 explained
+  - `for await`: 👂 heard
+  - `throw`: 🎓 known
+  - `break`: 🖐️ used
+  - `continue`: 🎓 known
+  - `import`: 🎓 known
+  - `export`: 🎓 known
+  - `label`: 👂 heard
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
+  - `extends`: 🖐️ used
+  - `with`: 👂 heard
+  - `new`: 🎓 known
 - Functions
-  - Arrow function e
-  - Async function e
-  - Function declaration u
-  - Function expression u
-  - Default parameters u
-  - Functional object h
+  - Arrow function: 🙋 explained
+  - Async function: 🙋 explained
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
+  - Functional object: 👂 heard
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return` u
+  - `return`: 🖐️ used
 - Data structures
-  - `Array` u
-  - `Map` k
-  - `Set` k
+  - `Array`: 🖐️ used
+  - `Map`: 🎓 known
+  - `Set`: 🎓 known
   - Weak collections
   - Typed arrays
   - Mixins
-  - `Object.assign` u
+  - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
-  - `Proxy` k
-  - `RegExp` k
-  - `Date` u
-  - `Math` u
+  - `Proxy`: 🎓 known
+  - `RegExp`: 🎓 known
+  - `Date`: 🖐️ used
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error` h
+  - `Error`: 👂 heard
   - `Atomics`
-  - `JSON` h
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` u
-  - `console` u
-  - Timers u
+  - `Promise`: 🖐️ used
+  - `console`: 🖐️ used
+  - Timers: 🖐️ used
 - Infrastructure
   - V8
-  - Node.js h
-  - npm k
-  - prettier h
+  - Node.js: 👂 heard
+  - npm: 🎓 known
+  - prettier: 👂 heard
   - MDN
   - TC39
