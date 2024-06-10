@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-82/113/730-009933?style=flat-square)](https://github.com/panknows/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-114/114/731-009933?style=flat-square)](https://github.com/panknows/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-82/113/730-009933?style=flat-square)](https://github.com/panknows/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-114/114/731-009933?style=flat-square)](https://github.com/panknows/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/panknows/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-82/113/730-009933?style=flat-square"></a>
+<a href="https://github.com/panknows/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-114/114/731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,12 +27,12 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operation systems | `0` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `0` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `40` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `57` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `7` | `10` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `4` | `7` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `9` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `3` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `8` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `14` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `6` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `20` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `0` | `18` |
@@ -67,82 +67,58 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `Symbol` | 👂 heard | ⟶  | 🎓 known |
-| `instanceof` | 🎓 known | ⟶  | 🖐️ used |
-| Generators | 🤷 unknown | ⟶  | 👂 heard |
-| Iterators | 🤷 unknown | ⟶  | 👂 heard |
-| Async generator | 🤷 unknown | ⟶  | 👂 heard |
-| Async iterator | 🤷 unknown | ⟶  | 👂 heard |
-| `global` | 🤷 unknown | ⟶  | 🎓 known |
-| `globalThis` | 🤷 unknown | ⟶  | 👂 heard |
-| `yield` | 🤷 unknown | ⟶  | 👂 heard |
-| Strict mode | 👂 heard | ⟶  | 🖐️ used |
+| `instanceof` | 👂 heard | ⟶  | 🖐️ used |
+| `...spread` | 🎓 known | ⟶  | 🖐️ used |
+| `...rest` | 🎓 known | ⟶  | 🖐️ used |
+| Strict mode | 🎓 known | ⟶  | 🖐️ used |
 | `super` | 👂 heard | ⟶  | 🖐️ used |
-| Private class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Private class methods | 🤷 unknown | ⟶  | 🎓 known |
 | `throw` | 🎓 known | ⟶  | 🖐️ used |
-| `new` | 🎓 known | ⟶  | 🖐️ used |
-| `Map` | 🎓 known | ⟶  | 🖐️ used |
-| `Set` | 🎓 known | ⟶  | 🖐️ used |
+| `class` | 🎓 known | ⟶  | 🖐️ used |
+| `extends` | 🎓 known | ⟶  | 🖐️ used |
+| `new` | 👂 heard | ⟶  | 🖐️ used |
 | Mixins | 🤷 unknown | ⟶  | 🎓 known |
-| `Error` | 👂 heard | ⟶  | 🖐️ used |
-| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
-| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
-| V8 | 🤷 unknown | ⟶  | 👂 heard |
-| prettier | 👂 heard | ⟶  | 🎓 known |
+| `Object.assign` | 🤷 unknown | ⟶  | 🎓 known |
+| Timers | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `49` of `72` skills, `23` to be upgraded, and `21` above needed
+Total: you have `60` of `72` skills, `12` to be upgraded, and `32` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| `BigInt` | 👂 heard | ⟶  | 🖐️ used |
-| `Symbol` | 👂 heard | ⟶  | 🖐️ used |
-| `Infinity` | 👂 heard | ⟶  | 🖐️ used |
-| `instanceof` | 🎓 known | ⟶  | 🖐️ used |
-| Generators | 🤷 unknown | ⟶  | 🖐️ used |
-| Iterators | 🤷 unknown | ⟶  | 🖐️ used |
-| Async generator | 🤷 unknown | ⟶  | 🖐️ used |
-| Async iterator | 🤷 unknown | ⟶  | 🖐️ used |
+| `BigInt` | 🎓 known | ⟶  | 🖐️ used |
+| `Symbol` | 🎓 known | ⟶  | 🖐️ used |
+| `Infinity` | 🎓 known | ⟶  | 🖐️ used |
+| `instanceof` | 👂 heard | ⟶  | 🖐️ used |
+| `...spread` | 🎓 known | ⟶  | 🖐️ used |
+| `...rest` | 🎓 known | ⟶  | 🖐️ used |
+| Generators | 👂 heard | ⟶  | 🖐️ used |
+| Async generator | 👂 heard | ⟶  | 🖐️ used |
+| Async iterator | 👂 heard | ⟶  | 🖐️ used |
 | Async IIFE | 👂 heard | ⟶  | 🖐️ used |
-| `global` | 🤷 unknown | ⟶  | 🖐️ used |
-| `globalThis` | 🤷 unknown | ⟶  | 🖐️ used |
-| Getters and setters | 👂 heard | ⟶  | 🖐️ used |
-| `void` | 🤷 unknown | ⟶  | 🖐️ used |
-| `yield` | 🤷 unknown | ⟶  | 🖐️ used |
-| Strict mode | 👂 heard | ⟶  | 🖐️ used |
+| `globalThis` | 🎓 known | ⟶  | 🖐️ used |
+| `void` | 🎓 known | ⟶  | 🖐️ used |
+| `yield` | 👂 heard | ⟶  | 🖐️ used |
+| Strict mode | 🎓 known | ⟶  | 🖐️ used |
 | `super` | 👂 heard | ⟶  | 🖐️ used |
+| `eval` | 👂 heard | ⟶  | 🎓 known |
 | `static` | 👂 heard | ⟶  | 🖐️ used |
-| `Number.parseInt` | 👂 heard | ⟶  | 🖐️ used |
-| `Number.parseFloat` | 👂 heard | ⟶  | 🖐️ used |
-| Property descriptors | 🤷 unknown | ⟶  | 🎓 known |
-| Sealing properties | 🤷 unknown | ⟶  | 🎓 known |
-| Freezing properties | 🤷 unknown | ⟶  | 🎓 known |
-| Computed properties | 🤷 unknown | ⟶  | 🎓 known |
-| Instance class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Static class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Private class fields | 🤷 unknown | ⟶  | 🎓 known |
-| Private class methods | 🤷 unknown | ⟶  | 🎓 known |
-| `for await` | 👂 heard | ⟶  | 🖐️ used |
+| Property descriptors | 👂 heard | ⟶  | 🎓 known |
+| Sealing properties | 👂 heard | ⟶  | 🎓 known |
+| Freezing properties | 👂 heard | ⟶  | 🎓 known |
+| `do..while` | 🎓 known | ⟶  | 🖐️ used |
+| `for await` | 🎓 known | ⟶  | 🖐️ used |
 | `throw` | 🎓 known | ⟶  | 🖐️ used |
-| `continue` | 🎓 known | ⟶  | 🖐️ used |
-| `import` | 🎓 known | ⟶  | 🖐️ used |
-| `export` | 🎓 known | ⟶  | 🖐️ used |
-| `new` | 🎓 known | ⟶  | 🖐️ used |
-| `Map` | 🎓 known | ⟶  | 🖐️ used |
-| `Set` | 🎓 known | ⟶  | 🖐️ used |
+| `class` | 🎓 known | ⟶  | 🖐️ used |
+| `extends` | 🎓 known | ⟶  | 🖐️ used |
+| `new` | 👂 heard | ⟶  | 🖐️ used |
 | Weak collections | 🤷 unknown | ⟶  | 🎓 known |
-| Typed arrays | 🤷 unknown | ⟶  | 🎓 known |
+| Typed arrays | 👂 heard | ⟶  | 🎓 known |
 | Mixins | 🤷 unknown | ⟶  | 👂 heard |
-| `Reflect` | 🤷 unknown | ⟶  | 🎓 known |
-| `Error` | 👂 heard | ⟶  | 🖐️ used |
-| `Atomics` | 🤷 unknown | ⟶  | 👂 heard |
-| `JSON` | 👂 heard | ⟶  | 🖐️ used |
-| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
-| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
-| V8 | 🤷 unknown | ⟶  | 🖐️ used |
-| prettier | 👂 heard | ⟶  | 🎓 known |
+| `Object.assign` | 🤷 unknown | ⟶  | 🎓 known |
+| `Reflect` | 👂 heard | ⟶  | 🎓 known |
+| Timers | 🤷 unknown | ⟶  | 🖐️ used |
+| V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `51` of `97` skills, `46` to be upgraded, and `20` above needed
+Total: you have `64` of `97` skills, `33` to be upgraded, and `22` above needed
 
 ## [Async](/Skills/Async.md)
 
